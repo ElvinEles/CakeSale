@@ -1,0 +1,235 @@
+{
+  "Category" : [ {
+    "category_name" : "Şokoladlı"
+  }, {
+    "category_name" : "Meyvəli"
+  } ],
+  "Product" : {
+    "1" : {
+      "product_accept_time" : "31.03.2019 21:17",
+      "product_amount" : "1r",
+      "product_arcieve" : "0",
+      "product_cake_pors" : "10d",
+      "product_custom_name" : "Terlan",
+      "product_custom_phone" : "0558479995",
+      "product_description" : "Cox gozel olsun",
+      "product_kind" : "Ciyelek",
+      "product_kind_other" : "truhhe",
+      "product_photo" : "link",
+      "product_receive_person" : "Elvin",
+      "product_receive_time" : "01.04.2019 16:00",
+      "product_received" : "1"
+    },
+    "3110369" : {
+      "product_accept_time" : "19.04.2019 21:21",
+      "product_amount" : "1 ƏDƏD",
+      "product_arcieve" : "1",
+      "product_cake_pors" : "10Pors",
+      "product_custom_name" : "Hh",
+      "product_custom_phone" : "h",
+      "product_description" : "",
+      "product_kind" : "dfdf",
+      "product_kind_other" : "",
+      "product_photo" : "NO",
+      "product_receive_person" : "Hh",
+      "product_receive_time" : "19.04.2019 09:21",
+      "product_received" : "1"
+    },
+    "7565510" : {
+      "product_accept_time" : "12.04.2019 15:45",
+      "product_amount" : "1 KG",
+      "product_arcieve" : "1",
+      "product_cake_pors" : "Pors",
+      "product_custom_name" : "Akif",
+      "product_custom_phone" : "055 546 11 27",
+      "product_description" : "Üstü az qızarsın",
+      "product_kind" : "",
+      "product_kind_other" : "Paxlava",
+      "product_photo" : "NO",
+      "product_receive_person" : "Fazil",
+      "product_receive_time" : "13.04.2019 04:00",
+      "product_received" : "1"
+    },
+    "30304385" : {
+      "product_accept_time" : "15.04.2019 21:02",
+      "product_amount" : "1 ƏDƏD",
+      "product_arcieve" : "1",
+      "product_cake_pors" : "15Pors",
+      "product_custom_name" : "Fff",
+      "product_custom_phone" : "fff",
+      "product_description" : "fff",
+      "product_kind" : "Bananlı",
+      "product_kind_other" : "",
+      "product_photo" : "NO",
+      "product_receive_person" : "Dfdf",
+      "product_receive_time" : "15.04.2019 09:02",
+      "product_received" : "1"
+    },
+    "32008938" : {
+      "product_accept_time" : "11.04.2019 22:50",
+      "product_amount" : "2 ƏDƏD",
+      "product_arcieve" : "0",
+      "product_cake_pors" : "25Pors",
+      "product_custom_name" : "Namiq",
+      "product_custom_phone" : "077 5404544",
+      "product_description" : "Super olsun zehmet olmasa ozel biri ucundur",
+      "product_kind" : "Şokoladlı",
+      "product_kind_other" : "",
+      "product_photo" : "NO",
+      "product_receive_person" : "Rahim",
+      "product_receive_time" : "26.04.2019 03:00",
+      "product_received" : "1"
+    },
+    "36921569" : {
+      "product_accept_time" : "15.04.2019 21:12",
+      "product_amount" : "1 ƏDƏD",
+      "product_arcieve" : "1",
+      "product_cake_pors" : "15Pors",
+      "product_custom_name" : "Fg",
+      "product_custom_phone" : "fgfg",
+      "product_description" : "ere",
+      "product_kind" : "Kataloq 02",
+      "product_kind_other" : "",
+      "product_photo" : "https://firebasestorage.googleapis.com/v0/b/madocakesale.appspot.com/o/uploads%2F36921569.jpg?alt=media&token=602eeba9-e5fb-4639-b404-80d6a845bbcb",
+      "product_receive_person" : "Ff",
+      "product_receive_time" : "15.04.2019 09:12",
+      "product_received" : "1"
+    },
+    "48579983" : {
+      "product_accept_time" : "19.04.2019 21:15",
+      "product_amount" : "1 ƏDƏD",
+      "product_arcieve" : "0",
+      "product_cake_pors" : "5Pors",
+      "product_custom_name" : "Hj",
+      "product_custom_phone" : "hj",
+      "product_description" : "",
+      "product_kind" : "dfdf",
+      "product_kind_other" : "",
+      "product_photo" : "NO",
+      "product_receive_person" : "Hj",
+      "product_receive_time" : "19.04.2019 09:15",
+      "product_received" : "1"
+    },
+    "56435683" : {
+      "product_accept_time" : "15.04.2019 21:09",
+      "product_amount" : "1 ƏDƏD",
+      "product_arcieve" : "0",
+      "product_cake_pors" : "25Pors",
+      "product_custom_name" : "Dfd",
+      "product_custom_phone" : "dfdf",
+      "product_description" : "",
+      "product_kind" : "Kataloq 01",
+      "product_kind_other" : "",
+      "product_photo" : "NO",
+      "product_receive_person" : "Df",
+      "product_receive_time" : "15.04.2019 09:10",
+      "product_received" : "1"
+    },
+    "71183313" : {
+      "product_accept_time" : "20.04.2019 20:33",
+      "product_amount" : "1 ƏDƏD",
+      "product_arcieve" : "0",
+      "product_cake_pors" : "15Pors",
+      "product_custom_name" : "Df",
+      "product_custom_phone" : "25",
+      "product_description" : "",
+      "product_kind" : "dfdf",
+      "product_kind_other" : "",
+      "product_photo" : "NO",
+      "product_receive_person" : "Fg",
+      "product_receive_time" : "20.04.2019 08:33",
+      "product_received" : "1"
+    },
+    "72026462" : {
+      "product_accept_time" : "20.04.2019 20:33",
+      "product_amount" : "1 ƏDƏD",
+      "product_arcieve" : "0",
+      "product_cake_pors" : "15Pors",
+      "product_custom_name" : "Df",
+      "product_custom_phone" : "25",
+      "product_description" : "",
+      "product_kind" : "dfdf",
+      "product_kind_other" : "",
+      "product_photo" : "NO",
+      "product_receive_person" : "Fg",
+      "product_receive_time" : "20.04.2019 08:33",
+      "product_received" : "1"
+    },
+    "80334562" : {
+      "product_accept_time" : "20.04.2019 20:41",
+      "product_amount" : "1 ƏDƏD",
+      "product_arcieve" : "0",
+      "product_cake_pors" : "15Pors",
+      "product_custom_name" : "Fg",
+      "product_custom_phone" : "55",
+      "product_description" : "",
+      "product_kind" : "dfdf",
+      "product_kind_other" : "",
+      "product_photo" : "NO",
+      "product_receive_person" : "Fg",
+      "product_receive_time" : "20.04.2019 08:41",
+      "product_received" : "1"
+    },
+    "83135206" : {
+      "product_accept_time" : "12.04.2019 17:40",
+      "product_amount" : "1 ƏDƏD",
+      "product_arcieve" : "1",
+      "product_cake_pors" : "25Pors",
+      "product_custom_name" : "Kamil",
+      "product_custom_phone" : "0775404448",
+      "product_description" : "",
+      "product_kind" : "Bananlı Şokoladlı",
+      "product_kind_other" : "",
+      "product_photo" : "NO",
+      "product_receive_person" : "Elmira",
+      "product_receive_time" : "13.04.2019 06:00",
+      "product_received" : "1"
+    },
+    "92370503" : {
+      "product_accept_time" : "14.04.2019 21:43",
+      "product_amount" : "1 ƏDƏD",
+      "product_arcieve" : "0",
+      "product_cake_pors" : "25Pors",
+      "product_custom_name" : "Tahir",
+      "product_custom_phone" : "8899988",
+      "product_description" : "dffd",
+      "product_kind" : "Şokoladlı Trufel",
+      "product_kind_other" : "",
+      "product_photo" : "32008938.jpg",
+      "product_receive_person" : "Ilqar",
+      "product_receive_time" : "24.04.2019 Tahir04:00",
+      "product_received" : "1"
+    }
+  },
+  "Slider" : {
+    "-Lca_-c4OKC1QWQyX_KE" : {
+      "slider_image" : "https://firebasestorage.googleapis.com/v0/b/madocakesale.appspot.com/o/slider%2Fswapnil-dwivedi-1169349-unsplash.jpg?alt=media&token=c52ada74-e6f0-45e9-ba2b-fef4a28bf03b",
+      "slider_name" : "Karamelli Tort"
+    },
+    "-Lca_141q9zBqwGJR1gE" : {
+      "slider_image" : "https://firebasestorage.googleapis.com/v0/b/madocakesale.appspot.com/o/slider%2Fjacob-schwartz-550545-unsplash.jpg?alt=media&token=48ac6ed3-82f6-49f1-93ba-53090ffc3b0b",
+      "slider_name" : "Şokoladlı Tort"
+    },
+    "-Lca_2T4sFr0wisAi2a5" : {
+      "slider_image" : "https://firebasestorage.googleapis.com/v0/b/madocakesale.appspot.com/o/slider%2Fgaby-dyson-724763-unsplash.jpg?alt=media&token=ef9a091b-c634-4aaa-88cb-5ae336d26a71",
+      "slider_name" : "Çiyələkli Tort"
+    },
+    "-Lca_3e836YfnLuJS5JY" : {
+      "slider_image" : "https://firebasestorage.googleapis.com/v0/b/madocakesale.appspot.com/o/slider%2Fcake-chocolate-cream-1027811.jpg?alt=media&token=618a28c5-ace4-46e3-90b9-72d5fb9bbb8e",
+      "slider_name" : "Meyvəli Tort"
+    },
+    "-Lca_KpJsovBqm1P62uM" : {
+      "slider_image" : "https://firebasestorage.googleapis.com/v0/b/madocakesale.appspot.com/o/slider%2Fbirthday-birthday-cake-cake-140831.jpg?alt=media&token=da4aef92-3968-4779-8706-123e310a3332",
+      "slider_name" : "Cheecake Limonlu"
+    }
+  },
+  "Users" : [ null, {
+    "user_email" : "section1@gmail.com",
+    "user_name" : "section1",
+    "user_password" : "section1"
+  }, {
+    "user_email" : "sectiona@gmail.com",
+    "user_name" : "sectiona",
+    "user_password" : "sectiona"
+  } ]
+}

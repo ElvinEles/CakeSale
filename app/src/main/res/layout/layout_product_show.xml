@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="wrap_content"
+        app:cardElevation="6dp"
+        android:layout_height="wrap_content">
+
+
+    <LinearLayout
+            android:padding="5dp"
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+
+        <LinearLayout
+                android:background="@drawable/layout_product_show_border"
+                android:layout_marginBottom="10dp"
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+            <TextView
+                    android:paddingLeft="3dp"
+                    android:textStyle="bold"
+                    android:gravity="left"
+                    android:textSize="15sp"
+                    android:text="Sifarişi qəbul edən:"
+                    android:layout_width="200dp"
+                    android:layout_height="wrap_content"/>
+
+
+            <TextView
+                    android:paddingRight="5dp"
+                    android:id="@+id/product_receive_person"
+                    android:textStyle="bold"
+                    android:textSize="15sp"
+                    android:text="Elmir Mado2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"/>
+
+
+        </LinearLayout>
+
+        <LinearLayout
+                android:background="@drawable/layout_product_show_border"
+                android:layout_marginBottom="10dp"
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+            <TextView
+                    android:paddingLeft="3dp"
+                    android:textStyle="bold"
+                    android:gravity="left"
+                    android:textSize="15sp"
+                    android:text="Sifarişi tarixi:"
+                    android:layout_width="200dp"
+                    android:layout_height="wrap_content"/>
+
+
+            <TextView
+                    android:paddingRight="5dp"
+                    android:id="@+id/product_accept_time"
+                    android:textStyle="bold"
+                    android:textSize="15sp"
+                    android:textAllCaps="true"
+                    android:text="22.04.2019 16:00"
+                    android:layout_width="200dp"
+                    android:layout_height="wrap_content"/>
+
+
+        </LinearLayout>
+
+        <LinearLayout
+                android:background="@drawable/layout_product_show_border"
+                android:layout_marginBottom="10dp"
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+            <TextView
+                    android:paddingLeft="3dp"
+                    android:textStyle="bold"
+                    android:textSize="15sp"
+                    android:gravity="left"
+                    android:text="Sifarişin təslim tarixi:"
+                    android:layout_width="200dp"
+                    android:layout_height="wrap_content"/>
+
+
+            <TextView
+                    android:paddingRight="5dp"
+                    android:id="@+id/product_receive_time"
+                    android:textStyle="bold"
+                    android:textSize="15sp"
+                    android:textAllCaps="true"
+                    android:text="22.04.2019 16:00"
+                    android:layout_width="200dp"
+                    android:layout_height="wrap_content"/>
+
+
+        </LinearLayout>
+
+        <LinearLayout
+                android:background="@drawable/layout_product_show_border"
+                android:layout_marginBottom="10dp"
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+            <TextView
+                    android:paddingLeft="3dp"
+                    android:textStyle="bold"
+                    android:gravity="left"
+                    android:textSize="15sp"
+                    android:text="Müştəri:"
+                    android:layout_width="200dp"
+                    android:layout_height="wrap_content"/>
+
+
+            <TextView
+                    android:paddingRight="5dp"
+                    android:id="@+id/product_custom_name_phone"
+                    android:textStyle="bold"
+                    android:textSize="15sp"
+                    android:text="Akif 055 847 99 95"
+                    android:layout_width="200dp"
+                    android:layout_height="wrap_content"/>
+
+
+        </LinearLayout>
+
+        <LinearLayout
+                android:background="@drawable/layout_product_show_border"
+                android:layout_marginBottom="10dp"
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+            <TextView
+                    android:paddingLeft="3dp"
+                    android:textStyle="bold"
+                    android:gravity="left"
+                    android:textSize="15sp"
+                    android:text="Növü:"
+                    android:layout_width="200dp"
+                    android:layout_height="wrap_content"/>
+
+
+            <TextView
+                    android:paddingRight="5dp"
+                    android:id="@+id/product_kind_or_other"
+                    android:textStyle="bold"
+                    android:textSize="15sp"
+                    android:text="Ciyelekli"
+                    android:layout_width="200dp"
+                    android:layout_height="wrap_content"/>
+
+
+        </LinearLayout>
+
+        <LinearLayout
+                android:background="@drawable/layout_product_show_border"
+                android:layout_marginBottom="10dp"
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+            <TextView
+                    android:paddingLeft="3dp"
+                    android:textStyle="bold"
+                    android:gravity="left"
+                    android:textSize="15sp"
+                    android:text="Miqdarı:"
+                    android:layout_width="200dp"
+                    android:layout_height="wrap_content"/>
+
+
+            <TextView
+                    android:paddingRight="5dp"
+                    android:id="@+id/product_amount"
+                    android:textStyle="bold"
+                    android:textSize="15sp"
+                    android:text="1 Pors"
+                    android:layout_width="200dp"
+                    android:layout_height="wrap_content"/>
+
+
+        </LinearLayout>
+
+        <LinearLayout
+                android:background="@drawable/layout_product_show_border"
+                android:layout_marginBottom="10dp"
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+            <TextView
+                    android:paddingLeft="3dp"
+                    android:textStyle="bold"
+                    android:gravity="left"
+                    android:textSize="15sp"
+                    android:text="Şəkil:"
+                    android:layout_width="200dp"
+                    android:layout_height="wrap_content"/>
+
+
+            <RelativeLayout
+
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                <ImageView
+                        android:layout_alignParentLeft="true"
+                        android:id="@+id/product_photo"
+                        android:src="@drawable/ic_product_photo"
+                        android:layout_width="70dp"
+                        android:layout_height="70dp"/>
+
+            </RelativeLayout>
+
+
+        </LinearLayout>
+
+        <LinearLayout
+                android:background="@drawable/layout_product_show_border"
+                android:layout_marginBottom="10dp"
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+            <TextView
+                    android:paddingLeft="3dp"
+                    android:textStyle="bold"
+                    android:gravity="left"
+                    android:textSize="15sp"
+                    android:text="Əlavə qeyd:"
+                    android:layout_width="200dp"
+                    android:layout_height="wrap_content"/>
+
+            <TextView
+                    android:id="@+id/product_description"
+                    android:maxLines="10"
+                    android:paddingLeft="3dp"
+                    android:textStyle="bold"
+                    android:textSize="15sp"
+                    android:text="Ustu qirmizi olsun hazirlayan kimi zehmet olmasa seklini atarsini gozleyirk"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"/>
+
+
+        </LinearLayout>
+
+
+        <LinearLayout
+                android:padding="5dp"
+                android:orientation="horizontal"
+                android:weightSum="2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+            <Button
+                    android:background="@drawable/btnorder_accept"
+                    android:textColor="@android:color/white"
+                    android:id="@+id/product_show_accept_button"
+                    android:gravity="center"
+                    android:textAllCaps="false"
+                    android:text="Qəbul et"
+                    android:layout_weight="1"
+                    android:layout_width="0dp"
+                    android:layout_marginRight="3dp"
+                    android:layout_marginLeft="3dp"
+                    android:layout_height="40dp"/>
+
+
+
+
+            <Button
+                    android:background="@drawable/btnorder_deny"
+                    android:textColor="@android:color/white"
+                    android:id="@+id/product_show_archieve_button"
+                    android:gravity="center"
+                    android:textAllCaps="false"
+                    android:text="Arxivlə"
+                    android:layout_weight="1"
+                    android:layout_width="0dp"
+                    android:layout_marginRight="3dp"
+                    android:layout_marginLeft="3dp"
+                    android:layout_height="40dp"/>
+
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+
+</android.support.v7.widget.CardView>

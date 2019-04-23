@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+                android:id="@+id/nav_sale"
+                android:icon="@drawable/ic_menu_sale"
+                android:title="Sifarişlər"/>
+
+        <item
+                android:id="@+id/nav_sale_do"
+                android:icon="@drawable/ic_menu_sale_do"
+                android:title="Sifariş et"/>
+
+        <item
+                android:id="@+id/nav_archieve"
+                android:icon="@drawable/ic_archieve"
+                android:title="Arxivlər"/>
+
+    </group>
+
+    <group android:id="@+id/admin"  android:checkableBehavior="single">
+        <item
+                android:id="@+id/nav_slider"
+                android:icon="@drawable/ic_slider"
+                android:title="Slider"/>
+
+        <item
+                android:id="@+id/nav_category"
+                android:icon="@drawable/ic_category"
+                android:title="Kateqoriya"/>
+
+
+    </group>
+
+    <item
+            android:id="@+id/nav_logout"
+            android:icon="@drawable/ic_logout"
+            android:title="Çıxış"/>
+
+
+
+</menu>

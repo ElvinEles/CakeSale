@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        tools:context=".Admin.SliderActivity">
+
+    <RelativeLayout
+            android:id="@+id/relativelayout1"
+            android:layout_marginTop="10dp"
+            android:paddingTop="10dp"
+            android:layout_alignParentTop="true"
+            android:layout_width="match_parent"
+            android:layout_height="240dp">
+
+        <TextView
+                android:textColor="@android:color/white"
+                android:background="@color/colorPrimary"
+                android:layout_marginBottom="10dp"
+                android:gravity="center"
+                android:textSize="30sp"
+                android:id="@+id/slider_text"
+                android:layout_alignParentTop="true"
+                android:text="Yeni Slider"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+
+        <EditText
+                android:layout_below="@id/slider_text"
+                android:id="@+id/slider_name"
+                android:layout_marginBottom="10dp"
+                android:paddingRight="5dp"
+                android:paddingLeft="10dp"
+                android:hint="Sifarişi alan"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+
+        <RelativeLayout
+                android:id="@+id/relativelayout"
+                android:layout_below="@+id/slider_name"
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="60dp">
+
+            <Button
+                    android:layout_alignParentLeft="true"
+                    android:layout_marginRight="10dp"
+                    android:id="@+id/choosePhoto"
+                    android:textAllCaps="false"
+                    android:text="Şəkili seçin"
+                    android:layout_width="200dp"
+                    android:layout_height="wrap_content"/>
+
+            <ImageView
+                    android:scaleType="fitCenter"
+                    android:layout_marginRight="10dp"
+                    android:layout_alignParentRight="true"
+                    app:srcCompat="@drawable/ic_product_photo"
+                    android:id="@+id/slider_photo_get"
+                    android:layout_marginBottom="10dp"
+                    android:paddingRight="5dp"
+                    android:paddingLeft="10dp"
+                    android:hint="Şəkili seçin"
+                    android:layout_width="60dp"
+                    android:layout_height="60dp"/>
+        </RelativeLayout>
+
+
+        <Button
+                android:layout_marginLeft="30dp"
+                android:layout_below="@id/relativelayout"
+                android:layout_marginRight="30dp"
+                android:id="@+id/saveslider"
+                android:background="@drawable/btnorder_accept"
+                android:textColor="@android:color/white"
+                android:textAllCaps="false"
+                android:text="Təsdiqlə"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"/>
+
+
+    </RelativeLayout>
+
+
+
+    <android.support.v4.view.ViewPager
+            android:id="@+id/viewpagerslider"
+            android:overScrollMode="never"
+            android:foregroundGravity="center"
+            android:layout_centerInParent="true"
+            android:layout_width="match_parent"
+            android:layout_height="250dp"/>
+
+    <RelativeLayout
+            android:paddingTop="10dp"
+            android:layout_alignParentBottom="true"
+            android:layout_width="match_parent"
+            android:layout_height="250dp">
+
+        <TextView
+                android:textColor="@android:color/white"
+                android:background="@color/colorPrimary"
+                android:layout_marginBottom="10dp"
+                android:gravity="center"
+                android:textSize="30sp"
+                android:id="@+id/slider_text_second"
+                android:layout_alignParentTop="true"
+                android:text="Slider Sil"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+
+
+        <Spinner
+                android:layout_marginBottom="20dp"
+                android:layout_below="@id/slider_text_second"
+                android:id="@+id/slider_spinner"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+
+        <Button
+                android:layout_marginLeft="30dp"
+                android:layout_below="@id/slider_spinner"
+                android:layout_marginRight="30dp"
+                android:id="@+id/deleteslider"
+                android:background="@drawable/btnorder_deny"
+                android:textColor="@android:color/white"
+                android:textAllCaps="false"
+                android:text="Sil"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"/>
+
+
+    </RelativeLayout>
+
+
+</LinearLayout>

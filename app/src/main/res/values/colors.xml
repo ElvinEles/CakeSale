@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ef5350</color>
+    <color name="colorPrimaryDark">#b61827</color>
+    <color name="colorAccent">#ff867c</color>
+    <color name="textviewbackcolor">#455a64</color>
+    <color name="textviewcolor">#FFFFFF</color>
+    <color name="layout_border">#2B2929</color>
+    <color name="alert_back">#BBB7B7</color>
+    <color name="holder_back">#F5F571</color>
+    <color name="receive_button_back">#1F3102</color>
+    <color name="text_color">#242424</color>
+</resources>

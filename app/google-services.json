@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "767058058889",
+    "firebase_url": "https://madocakesale.firebaseio.com",
+    "project_id": "madocakesale",
+    "storage_bucket": "madocakesale.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767058058889:android:2ad38932dc484aa2",
+        "android_client_info": {
+          "package_name": "com.madocakesale"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "767058058889-m1m3833ag0vtksagc6cv6q8p07c47mir.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.madocakesale",
+            "certificate_hash": "81059585308a1c2845d3c24a0586c96f197afd97"
+          }
+        },
+        {
+          "client_id": "767058058889-vlehuei8ad61h63gjove3p14srbe1dsk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACQENRqknB4b_MlNysk6ZcV4ptIkJefoI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "767058058889-vlehuei8ad61h63gjove3p14srbe1dsk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
